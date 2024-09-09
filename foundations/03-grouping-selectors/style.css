@@ -1,5 +1,13 @@
-button {}
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
 
-.class-one {}
+.class-one {
+    background-color: black;
+    color: white;
+}
 
-.class-two {}
+.class-two {
+    background-color: yellow;
+}
